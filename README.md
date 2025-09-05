@@ -49,4 +49,4 @@ Provided clear YoY KPI comparisons to track growth and profitability.
 -->Dashboard Preview
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](./dashboard.png)
+![Dashboard Screenshot](./Dashboard.png)
